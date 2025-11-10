@@ -22,3 +22,5 @@ if success then
 else
     warn("Failed to fetch data from the URL: " .. response)
 end
+
+return true
